@@ -6,4 +6,5 @@ Capturing video involves the acquisition and processing of sequential frames fro
 - openCV
 - CUDA (Compute Unified Device Architecture)
 - Jupyter
-  
+## Acess the Colab Notebook
+![](https://colab.research.google.com/drive/10_nDAGKguIHiHixeYx2A3MGif7dRhD_7?usp=sharing)
